@@ -33,7 +33,7 @@ if (Meteor.isClient) {
 
       document.getElementById("result").innerHTML = r;
     };
-    mic.connect("INSERT YOUR CLIENT TOKEN");
+    mic.connect("O5FLWRIOBZLPKDOGTAU5GL4KCKIXXUHK");
     // mic.start();
     // mic.stop();
 
